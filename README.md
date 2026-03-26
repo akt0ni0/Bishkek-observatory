@@ -4,16 +4,19 @@ Independent astrophotography project — Bishkek, Kyrgyzstan 🇰🇬
 
 **Founded:** March 2026  
 **Equipment:** Celestron NexStar 1275LT (130mm aperture, 650mm focal length)  
-**Location:** Bishkek, Kyrgyzstan (42.87°N, 74.59°E, elevation 800m)
+**Location:** Bishkek, Kyrgyzstan (42.87°N, 74.59°E, elevation 800m)  
+**TikTok:** @skyobserver08
+
+---
 
 ## About
 
-Sky Observer is an independent space science project documenting 
+Sky Observer is an independent astrophotography project documenting 
 systematic astronomical observations from Bishkek, Kyrgyzstan. 
 Every session is logged with photographs, observing conditions, 
 equipment notes, and technical reflections.
 
-The goal is simple: understand the universe from the ground up — 
+The goal: understand the universe from the ground up — 
 one observation at a time, from Central Asia.
 
 ---
@@ -23,12 +26,12 @@ one observation at a time, from Central Asia.
 ### Session 1 — March 24, 2026 🌙
 **Target:** First Quarter Moon  
 **Equipment:** Celestron NexStar 1275LT + phone mount  
-**Conditions:** Partly cloudy, ~5°C, Bishkek  
+**Conditions:** Partly cloudy, ~19°C, Bishkek  
 **Phase:** Waxing crescent, ~38% illuminated  
 **Best result:** Terminator detail visible, individual crater rims resolved  
 **Key learning:** Image sharpness improved significantly after telescope 
 cooled to ambient temperature. Final shots noticeably sharper than first.  
-**Photos:** 7 captured — see /session-01 folder  
+**Photos:** See session-01 files above  
 
 ---
 
@@ -42,8 +45,8 @@ cooled to ambient temperature. Final shots noticeably sharper than first.
 |--------|-------|
 | Saturn | Rings visible at 50x+ magnification |
 | Jupiter | Cloud bands + Galilean moons |
-| Orion Nebula (M42) | Requires darker sky conditions |
-| Pleiades (M45) | Wide field, good for phone photography |
+| Orion Nebula (M42) | Requires darker sky |
+| Pleiades (M45) | Wide field target |
 
 ---
 
@@ -53,11 +56,5 @@ cooled to ambient temperature. Final shots noticeably sharper than first.
 | Telescope | Celestron NexStar 1275LT |
 | Aperture | 130mm |
 | Focal length | 650mm |
-| Mount | Computerized GoTo (Alt-Az) |
-| Camera | iPhone (phone mount adapter) |
-
----
-
-*Follow the journey:*  
-📱 TikTok: @skyobserver08  
-📷 Instagram: @skyobserver.kg
+| Mount | Computerized GoTo Alt-Az |
+| Camera | iPhone + phone mount adapter |
