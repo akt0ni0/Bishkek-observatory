@@ -9,18 +9,6 @@ Independent astrophotography project — Bishkek, Kyrgyzstan 🇰🇬
 
 ---
 
-## About
-
-Sky Observer is an independent astrophotography project documenting 
-systematic astronomical observations from Bishkek, Kyrgyzstan. 
-Every session is logged with photographs, observing conditions, 
-equipment notes, and technical reflections.
-
-The goal: understand the universe from the ground up — 
-one observation at a time, from Central Asia.
-
----
-
 ## Session Log
 
 ### Session 1 — March 24, 2026 🌙
