@@ -28,7 +28,7 @@ one observation at a time, from Central Asia.
 **Best result:** Terminator detail visible, individual crater rims resolved  
 **Key learning:** Image sharpness improved significantly after telescope 
 cooled to ambient temperature. Final shots noticeably sharper than first.  
-**Photos:** 5 captured — see /session-01 folder  
+**Photos:** 7 captured — see /session-01 folder  
 
 ---
 
