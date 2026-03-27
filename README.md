@@ -21,7 +21,7 @@ Independent astrophotography project — Bishkek, Kyrgyzstan 🇰🇬
 cooled to ambient temperature. Final shots noticeably sharper than first.  
 **Photos:** See session-01 files above  
 
-### Session 2 — [date] 🌙🪐
+### Session 2 — Mar 26, 2026🌙🪐
 **Targets:** Moon (craters close-up), Jupiter, Betelgeuse, Spica  
 **Equipment:** Celestron NexStar 1275LT + phone mount  
 **Conditions:** [write your conditions — clear/cloudy, temperature]  
