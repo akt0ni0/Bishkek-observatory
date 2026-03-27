@@ -24,7 +24,8 @@ cooled to ambient temperature. Final shots noticeably sharper than first.
 ### Session 2 — Mar 26, 2026🌙🪐
 **Targets:** Moon (craters close-up), Jupiter, Betelgeuse, Spica  
 **Equipment:** Celestron NexStar 127SLT + phone mount  
-**Conditions:** [write your conditions — clear/cloudy, temperature]  
+**Conditions:** Clear sky, ~15C, Bishkek
+**Phase:** Waxing Gibbous, 55% illuminated
 **Results:**  
 - Moon: crater detail significantly improved at higher magnification  
 - Jupiter: visible, image quality needs improvement — attempting stacking  
