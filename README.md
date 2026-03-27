@@ -3,7 +3,7 @@
 Independent astrophotography project — Bishkek, Kyrgyzstan 🇰🇬
 
 **Founded:** March 2026  
-**Equipment:** Celestron NexStar 1275LT (130mm aperture, 650mm focal length)  
+**Equipment:** Celestron NexStar 127SLT (130mm aperture, 650mm focal length)  
 **Location:** Bishkek, Kyrgyzstan (42.87°N, 74.59°E, elevation 800m)  
 **TikTok:** @skyobserver08
 
@@ -13,7 +13,7 @@ Independent astrophotography project — Bishkek, Kyrgyzstan 🇰🇬
 
 ### Session 1 — March 24, 2026 🌙
 **Target:** First Quarter Moon  
-**Equipment:** Celestron NexStar 1275LT + phone mount  
+**Equipment:** Celestron NexStar 127SLT + phone mount  
 **Conditions:** Partly cloudy, ~19°C, Bishkek  
 **Phase:** Waxing crescent, ~38% illuminated  
 **Best result:** Terminator detail visible, individual crater rims resolved  
@@ -23,7 +23,7 @@ cooled to ambient temperature. Final shots noticeably sharper than first.
 
 ### Session 2 — Mar 26, 2026🌙🪐
 **Targets:** Moon (craters close-up), Jupiter, Betelgeuse, Spica  
-**Equipment:** Celestron NexStar 1275LT + phone mount  
+**Equipment:** Celestron NexStar 127SLT + phone mount  
 **Conditions:** [write your conditions — clear/cloudy, temperature]  
 **Results:**  
 - Moon: crater detail significantly improved at higher magnification  
@@ -49,7 +49,7 @@ stacking next session.
 ## Equipment
 | Item | Spec |
 |------|------|
-| Telescope | Celestron NexStar 1275LT |
+| Telescope | Celestron NexStar 127SLT |
 | Aperture | 130mm |
 | Focal length | 650mm |
 | Mount | Computerized GoTo Alt-Az |
