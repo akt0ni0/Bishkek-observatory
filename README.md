@@ -43,7 +43,6 @@ atmospheric turbulence. Stars show distortion at high magnification.
 **Results:** Continued lunar detail work at varying magnifications.  
 Additional star targets captured.  
 **Key learning:** Tracking consistency improves with each alignment.  
-**Photos:** session-03 folder  
 
 ---
 
@@ -52,7 +51,6 @@ Additional star targets captured.
 **Conditions:** Bishkek  
 **Results:** Multiple stellar objects captured. Building familiarity 
 with GoTo system for rapid target acquisition.  
-**Photos:** session-04 folder  
 
 ---
 
@@ -67,9 +65,7 @@ with GoTo system for rapid target acquisition.
 **Key learning:** Near-full Moon washes out nearby deep sky objects 
 due to light pollution. Schedule galaxy/nebula sessions around 
 new Moon phase for best results.  
-**Photos:** session-05 folder  
 
----
 ---
 
 ## Equipment
